@@ -1,0 +1,3 @@
+[submodule "e-mart"]
+	path = e-mart
+	url = https://github.com/nagakalyanpro/React-E-Mart.git
